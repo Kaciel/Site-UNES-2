@@ -8,7 +8,7 @@ menu {
     font-weight: bold;
     text-decoration: none;
     border: none;
-    display: inline-block;
+    display: inline;
 
 }
 
@@ -17,6 +17,6 @@ footer {
     border: none;
     font-weight: bold;
     text-decoration: none;
-    display: inline-block;
+    display: inline;
 
 }
