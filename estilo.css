@@ -7,5 +7,16 @@ menu {
     background-color: blue;
     font-weight: bold;
     text-decoration: none;
-    
+    border: none;
+    display: inline-block;
+
+}
+
+footer {
+    background-attachment: fixed;
+    border: none;
+    font-weight: bold;
+    text-decoration: none;
+    display: inline-block;
+
 }
