@@ -1,0 +1,11 @@
+body {
+    background-color: aliceblue;
+}
+
+menu {
+    background-attachment: fixed;
+    background-color: blue;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
