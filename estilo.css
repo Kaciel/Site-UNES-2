@@ -27,3 +27,8 @@ a:hover {
     padding: 50px;
 }
 
+body {
+    background-image: url(img/learning-4264032.png); 
+    background-repeat: repeat-y;
+    background-attachment: fixed;
+}
